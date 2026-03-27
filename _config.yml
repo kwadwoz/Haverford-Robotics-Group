@@ -1,17 +1,16 @@
 # Site settings
-title: Translational lymphoma research in the Morin laboratory at Simon Fraser University
-lab_name: Morin Laboratory
+title: Haverford Robotics Lab
+lab_name: Haverford Robotics Lab
 author: >
-  Bruno Grande, Ryan Morin and the Morin laboratory
-institution: SFU
-email: rdmorin@sfu.ca
+  Professor Thao Nguyen and the Haverford Robotics Lab
+institution: Haverford College
+email: contact@haverford.edu
 description: >
-  The Morin Laboratory performs cutting-edge lymphoma research using
-  a combination of dry lab and wet lab experiments.
+  The Haverford Robotics Lab, led by Professor Thao Nguyen, performs cutting-edge robotics research.
 baseurl: ""
-url: "https://morinlab.github.io"
-twitter_username: morinryan
-github_username:  morinlab
+url: ""
+twitter_username: 
+github_username: 
 images_dir: "/images/"
 
 # Build settings
