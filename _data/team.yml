@@ -24,3 +24,27 @@
   bio: >
     I am an undergraduate researcher in the Haverford Robotics Lab.
   photo: team/Matts.PNG
+
+
+- name: Zenas Boamah
+  is_pi: False
+  is_current: True
+  position: Undergraduate Researcher
+  bio: >
+    I am an undergraduate researcher in the Haverford Robotics Lab.
+  photo: team/Zenas.jpeg
+
+
+
+
+
+- name: Ryaan Sharif
+  is_pi: False
+  is_current: True
+  position: Undergraduate Researcher
+  bio: >
+    I am an undergraduate researcher in the Haverford Robotics Lab.
+  photo: team/ryaan.jpeg  
+
+
+
