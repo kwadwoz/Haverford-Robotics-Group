@@ -1,0 +1,27 @@
+<div class="carousel-container">
+  <div class="carousel-slide fade active">
+    <!-- You can update these image paths with your actual pictures -->
+    <img src="{{ site.baseurl }}/images/team/Zenas.jpeg" alt="Slide 1">
+  </div>
+
+  <div class="carousel-slide fade">
+    <img src="{{ site.baseurl }}/images/team/Owen.JPG" alt="Slide 2">
+  </div>
+
+  <div class="carousel-slide fade">
+    <img src="{{ site.baseurl }}/images/team/Matt.PNG" alt="Slide 3">
+  </div>
+
+  <!-- Next and previous buttons -->
+  <a class="carousel-prev" onclick="plusSlides(-1)">&#10094;</a>
+  <a class="carousel-next" onclick="plusSlides(1)">&#10095;</a>
+</div>
+
+<div class="carousel-dots-container" style="text-align:center">
+  <span class="carousel-dot active" onclick="currentSlide(1)"></span>
+  <span class="carousel-dot" onclick="currentSlide(2)"></span>
+  <span class="carousel-dot" onclick="currentSlide(3)"></span>
+</div>
+
+<!-- Load the inline script for the carousel -->
+<script src="{{ site.baseurl }}/js/carousel.js"></script>
